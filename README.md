@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** with expertise in MERN stack. I have experience b
 - Front-end development using React
 - Back-end development using Node.js and Express.js
 - Database design and management using MongoDB
-- Experience with RESTful APIs and GraphQL
+- Experience with RESTful APIs 
 - Knowledge of AWS and Heroku deployment
 - Proficient in version control using Git
 - Familiarity with TypeScript, Next.js, and Redux
